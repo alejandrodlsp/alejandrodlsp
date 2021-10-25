@@ -3,7 +3,7 @@
 
 
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=undertale&label=Website&message=alejandrodlsp.com&color=red)](https://alejandrodlsp.com)
-[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=alejandro%20de%20los%20santos&color=blue)](linkedin.com/in/alejandro-de-los-santos-84152916b/)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=alejandro%20de%20los%20santos&color=blue)](https://linkedin.com/in/alejandro-de-los-santos-84152916b/)
 [![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=Github&message=alejandrodlsp&color=lightgray)](https://github.com/alejandrodlsp)
 
 ## I'm a passionate programmer with interest in Web development, Graphics Programming and Video Game Development!
