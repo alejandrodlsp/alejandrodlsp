@@ -1,10 +1,14 @@
-### Hello!,my name is Alejandro - aka [alejandrodlsp][website] 👋
+# Hello!,my name is Alejandro - *aka [alejandrodlsp][website]* 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=social&url=https%3A%2F%2Falejandrodlsp.com)](https://alejandrodlsp.com)
-[![Linkedin](https://img.shields.io/website?label=Linkedin&style=social&url=https%3A%2F%2Flinkedin.com%2Fin%2Falejandro-de-los-santos-84152916b)](linkedin.com/in/alejandro-de-los-santos-84152916b/)
-[![Github](https://img.shields.io/github/stars/alejandrodlsp?style=social)](https://github.com/alejandrodlsp)
 
-## Passionate Programmer with interest in Web development, Graphics programming and Video Game development!
+
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&logo=undertale&label=Website&message=alejandrodlsp.com&color=red)](https://alejandrodlsp.com)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=alejandro%20de%20los%20santos&color=blue)](linkedin.com/in/alejandro-de-los-santos-84152916b/)
+[![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=Github&message=alejandrodlsp&color=lightgray)](https://github.com/alejandrodlsp)
+
+## I'm a passionate programmer with interest in Web development, Graphics Programming and Video Game Development!
+
+<br />
 
 - 🔭 Computer Games Development student at University of Limerick.
 - 🌱 Trying to learn everything...
